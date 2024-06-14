@@ -24,6 +24,7 @@
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>&#160
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>&#160
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8R0Ae68MafxdKLCcUFWg5hV7wM7yhNqfsi2VABsc3vl-aI-Tax4kEF68RvlBObKvooEs&usqp=CAU" alt="Unreal Engine" width="45" height="45"/>&#160
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/>
     </p> 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,4 +33,3 @@
 <a href="https://linkedin.com/in/aryan-patil-193b792a7" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="aryan-patil-193b792a7" height="50" width="50" /></a>&#160
 
 </p>
-
