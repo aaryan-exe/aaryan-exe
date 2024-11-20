@@ -7,11 +7,6 @@
     <li>🎨 UI/UX Designer: I enjoy creating user-friendly designs and building an aesthetic sense for app interfaces.</li>
     <li>📚 Skills Developing: Python, DBMS, Figma, Framer.</li>
 </ul>
-<h1>Projects</h1>
-<p>Here are some of my projects that showcase my learning and skills:</p>
-<ul>
-    <li><a href="https://github.com/aaryan-exe/Ping-Pong-game"> Pong Game:</a>  A fun, beginner-level game project built with custom background and paddle graphics.</li>
-</ul>
 <h1>🛠️ Tools & Technologies</h1>
 <p>Here’s a quick look at some of the tools I’ve been using:</p>
 <ul>
