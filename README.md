@@ -10,7 +10,7 @@
 <h1>🛠️ Tools & Technologies</h1>
 <p>Here’s a quick look at some of the tools I’ve been using:</p>
 <ul>
-    <li>Programming Languages (learning): Python, SQL </li>
+    <li>Programming Languages (learning): Python, SQL, Java </li>
     <li>UI/UX Tools: Figma, Adobe XD, Framer</li>
 </ul>
 <h1>🌱 What I’m Learning</h1>
