@@ -5,7 +5,7 @@
 <ul>
     <li>💻 Learning Journey: I’m currently diving into Python programming and working on hands-on projects like a To-Do List app using Tkinter. It’s been an exciting way to understand the basics of coding, GUI design, and file handling.</li>
     <li>🎨 UI/UX Designer: I enjoy creating user-friendly designs and building an aesthetic sense for app interfaces.</li>
-    <li>📚 Skills Developing: Python, DBMS, Figma, Framer.</li>
+    <li>📚 Skills Developing: Python, SQL, Figma, Framer.</li>
 </ul>
 <h1>🛠️ Tools & Technologies</h1>
 <p>Here’s a quick look at some of the tools I’ve been using:</p>
