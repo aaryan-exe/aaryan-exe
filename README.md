@@ -11,7 +11,7 @@
 
 ---
 
-### Tech Stack (Monochrome)
+### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" alt="Node.js" />
@@ -67,9 +67,8 @@ Useful over flashy. Minimal UI, meaningful motion, intentional code.
 ---
 
 ### Contact
-<!-- Replace with your details -->
-- Email: `your@email.com`
-- LinkedIn: `https://www.linkedin.com/in/your-handle`
+- Email: `aryan.paatil@proton.me`
+- LinkedIn: `www.linkedin.com/in/aryan-patil-ap22`
 
 ---
 
