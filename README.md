@@ -1,28 +1,75 @@
-<h1>Hi there! 👋 I'm Aryan</h1>
-<p>Welcome to my GitHub profile! I’m a beginner programmer and UI/UX enthusiast, exploring the world of code and design. My focus is on learning Python, building practical projects, and expanding my skills in app development and user interface design.
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Aryan+—+Design+driven+Full-Stack+in+Progress;UI%2FUX+craft+%2B+clean+code;Building+useful%2C+minimal%2C+shippable+software" alt="Typing SVG" />
 </p>
-<h1>🔍 About Me</h1>
-<ul>
-    <li>💻 Learning Journey: I’m currently diving into Python programming and working on hands-on projects like a To-Do List app using Tkinter. It’s been an exciting way to understand the basics of coding, GUI design, and file handling.</li>
-    <li>🎨 UI/UX Designer: I enjoy creating user-friendly designs and building an aesthetic sense for app interfaces.</li>
-    <li>📚 Skills Developing: Python, SQL, Figma, Framer.</li>
-</ul>
-<h1>🛠️ Tools & Technologies</h1>
-<p>Here’s a quick look at some of the tools I’ve been using:</p>
-<ul>
-    <li>Programming Languages (learning): Python, SQL, Java </li>
-    <li>UI/UX Tools: Figma, Adobe XD, Framer</li>
-</ul>
-<h1>🌱 What I’m Learning</h1>
-<p>I’m always looking to improve my skills and expand my knowledge. Here are a few areas I’m currently focused on:</p>
-<ul>
-    <li>Python programming, especially with projects that build practical skills.</li>
-    <li>UI/UX design principles to create visually appealing, user-centered apps.</li>
-    <li>SQL</li>
-</ul>
-<h1>📫 Connect with Me</h1>
-<p align="left">
-<a href="https://twitter.com/@aryan_exe_" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="@aryan_exe_" height="45" width="45" /></a>&#160
-<a href="https://linkedin.com/in/aryan-patil-193b792a7" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="aryan-patil-193b792a7" height="50" width="50" /></a>&#160
 
+<h1 align="center">aaryan-exe</h1>
+<p align="center">Design-first developer · React / Node / Express / Mongo · Figma / Framer</p>
+
+---
+
+### Tech Stack (Monochrome)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" alt="Figma" />
+  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white&labelColor=000000" alt="Framer" />
+</p>
+
+---
+
+### Focus
+Useful over flashy. Minimal UI, meaningful motion, intentional code.
+
+> Useful is beautiful. Quality scales. Less noise → more intention.
+
+---
+
+### Pinned Projects
+<!-- Replace descriptions as you like -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/aaryan-exe/Healthcare-Appointment-System">Healthcare-Appointment-System</a></h3>
+      <p>Appointment booking flow, role-based views, and clean UI for patients & doctors.</p>
+      <p>
+        <a href="https://github.com/aaryan-exe/Healthcare-Appointment-System"><img src="https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/aaryan-exe/TicketFlixx">TicketFlixx</a></h3>
+      <p>Movie ticketing experience with listings, seating workflow, and simple admin.</p>
+      <p>
+        <a href="https://github.com/aaryan-exe/TicketFlixx"><img src="https://img.shields.io/badge/Code-000000?style=flat&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Optional: add a third project by duplicating a <td> block above -->
+
+---
+
+### GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryan-exe&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=transparent" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=aaryan-exe&theme=transparent&hide_longest_streak=true" alt="streak" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-exe&layout=compact&langs_count=8&theme=transparent" alt="top langs" />
+</p>
+
+---
+
+### Contact
+<!-- Replace with your details -->
+- Email: `your@email.com`
+- LinkedIn: `https://www.linkedin.com/in/your-handle`
+
+---
+
+<p align="center">
+  <sub>Designed to stay minimal. Built to keep shipping.</sub>
 </p>
