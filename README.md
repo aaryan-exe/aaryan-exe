@@ -1,7 +1,10 @@
 <!-- Profile Header -->
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Aryan+—+Design+driven+Full-Stack+in+Progress;UI%2FUX+craft+%2B+clean+code;Building+useful%2C+minimal%2C+shippable+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Aryan+-+Design+driven+Full+Stack+in+Progress;UI%2FUX+craft+%2B+clean+code;Building+useful%2C+minimal%2C+shippable+software" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">aaryan-exe</h1>
 <p align="center">Design-first developer · React / Node / Express / Mongo · Figma / Framer</p>
